@@ -8,12 +8,12 @@ Com foco em desenvolvimento backend utilizando Python e Java. Conhecimentos em d
 
 ## Stack
 
-Linguagens: Java, Python \n
-Bancos de Dados: SQL, PostgreSQL \n
-Tecnologias Web: HTML, CSS \n
-Versionamento: Git, GitHub \n
-Ferramentas: Pacote Office, Microsoft Power Platform \n
-Idiomas: Português (Nativo), Inglês (Avançado) \n
+- Linguagens: Java, Python 
+- Bancos de Dados: SQL, PostgreSQL 
+- Tecnologias Web: HTML, CSS 
+- Versionamento: Git, GitHub 
+- Ferramentas: Pacote Office, Microsoft Power Platform 
+- Idiomas: Português (Nativo), Inglês (Avançado) 
             
 ## Contatos:
 <div>
@@ -21,7 +21,7 @@ Idiomas: Português (Nativo), Inglês (Avançado) \n
 <a href="https://www.linkedin.com/in/pedromaximiano20/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/PedroMaximiano20/PedroMaximiano20/blob/output/github-contribution-grid-snake.svg)
+
             
              
             
